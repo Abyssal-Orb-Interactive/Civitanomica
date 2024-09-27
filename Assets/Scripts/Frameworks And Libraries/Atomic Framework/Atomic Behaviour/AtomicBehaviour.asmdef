@@ -1,0 +1,16 @@
+{
+    "name": "AtomicBehaviour",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6efcf91b295849328b6868a954e1cced"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
